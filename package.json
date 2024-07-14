@@ -1,0 +1,11 @@
+{
+  "name": "blitz",
+  "version": "1.0.0",
+  "description": "Create a flashcard deck from any document. Quiz yourself on how much you know.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
